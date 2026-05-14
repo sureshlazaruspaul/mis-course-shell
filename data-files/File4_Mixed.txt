@@ -1,0 +1,251 @@
+TransactionID;RefNo;CustomerName;Amount;Tax;TotalCharge;PaymentMethod;TransactionDate;Status;Profit;Region
+TXN805629;0004213;Sarah Garcia-Lopez;3263.13;261.05;3524.18;Debit Card;04/05/2024;Refunded;248.76;West,Coast
+TXN291674;0006019;Michael Garcia-Lopez;3285.83;262.87;3548.69;Cash;02/10/2023;Cancelled;285.93;West,Coast
+TXN317334;0003566;Jane von Schmidt;3210.42;256.83;3467.25;PayPal;12/21/2023;Cancelled;66.61;North,East
+TXN794426;0008074;Jane Garcia-Lopez;2101.00;168.08;2269.08;PayPal;09/16/2023;Cancelled;-83.02;Central	Zone
+TXN346884;0006504;Jane Garcia-Lopez;3115.08;249.21;3364.29;Debit Card;06/14/2024;Pending;-87.07;North,East
+TXN186237;0000790;Michael McCarthy;2400.22;192.02;2592.23;Debit Card;09/04/2024;Completed;297.69;Central	Zone
+TXN170677;0009675;David O'Brien;1288.62;103.09;1391.71;Debit Card;05/11/2024;Refunded;69.82;North,East
+TXN929355;0005621;Michael McCarthy;3489.39;279.15;3768.54;Credit Card;05/01/2024;Pending;280.76;East|Region
+TXN845164;0009787;Jane O'Brien;2099.74;167.98;2267.72;Wire Transfer;09/09/2023;Refunded;459.21;Central	Zone
+TXN681411;0000172;Jane McCarthy;4006.50;320.52;4327.02;Debit Card;05/17/2024;Pending;259.20;Central	Zone
+TXN954674;0008387;David Garcia-Lopez;684.05;54.72;738.77;Wire Transfer;04/03/2023;Pending;435.57;North,East
+TXN562515;0008007;Michael O'Brien;2882.80;230.62;3113.42;Credit Card;01/19/2024;Refunded;23.12;North,East
+TXN565263;0006823;David Smith;3108.97;248.72;3357.69;Debit Card;04/14/2023;Cancelled;-19.88;West,Coast
+TXN569852;0009767;Michael Garcia-Lopez;503.23;40.26;543.49;PayPal;04/03/2024;Completed;411.29;East|Region
+TXN219831;0001549;Jane McCarthy;931.02;74.48;1005.50;PayPal;07/07/2023;Pending;219.05;West,Coast
+TXN455387;0004211;John Garcia-Lopez;4409.45;352.76;4762.20;Cash;12/10/2023;Cancelled;-69.64;South|West
+TXN302836;0005050;Jane von Schmidt;4019.07;321.53;4340.59;Cash;06/13/2023;Refunded;249.30;West,Coast
+TXN344910;0005091;Jane O'Brien;863.14;69.05;932.19;Credit Card;02/07/2023;Cancelled;188.58;West,Coast
+TXN732190;0008540;John O'Brien;4092.02;327.36;4419.38;Credit Card;02/17/2023;Pending;-62.25;South|West
+TXN825414;0004191;Sarah von Schmidt;3066.99;245.36;3312.35;Credit Card;05/23/2023;Refunded;263.00;Central	Zone
+TXN765520;0005705;Michael Smith;3890.43;311.23;4201.67;Cash;07/11/2023;Cancelled;-63.02;North,East
+TXN157001;0008535;Sarah Garcia-Lopez;2683.18;214.65;2897.84;Debit Card;12/04/2024;Cancelled;234.93;East|Region
+TXN456360;0002847;Sarah von Schmidt;4596.33;367.71;4964.03;Cash;04/25/2023;Cancelled;55.53;North,East
+TXN307266;0001500;David von Schmidt;1826.90;146.15;1973.05;Cash;07/26/2024;Pending;38.44;South|West
+TXN160673;0000556;David McCarthy;109.20;8.74;117.93;Debit Card;04/16/2023;Pending;479.48;Central	Zone
+TXN369517;0000781;Michael Smith;3105.32;248.43;3353.75;PayPal;09/26/2023;Refunded;88.48;East|Region
+TXN228296;0002969;Sarah von Schmidt;2953.73;236.30;3190.03;Credit Card;06/05/2024;Cancelled;451.33;South|West
+TXN116733;0000834;David von Schmidt;2050.88;164.07;2214.95;PayPal;07/10/2024;Refunded;-54.14;Central	Zone
+TXN933438;0000133;John von Schmidt;564.25;45.14;609.39;PayPal;11/26/2024;Completed;124.01;East|Region
+TXN853456;0002677;Michael McCarthy;2617.01;209.36;2826.38;PayPal;11/16/2023;Completed;13.76;South|West
+TXN723161;0006064;John Garcia-Lopez;1634.79;130.78;1765.57;PayPal;10/26/2023;Cancelled;468.66;Central	Zone
+TXN348410;0000831;Jane McCarthy;3381.74;270.54;3652.27;Credit Card;01/14/2023;Refunded;15.10;Central	Zone
+TXN123566;0006414;David Garcia-Lopez;3326.18;266.09;3592.27;Debit Card;02/16/2024;Cancelled;-83.78;South|West
+TXN226456;0005511;John O'Brien;2866.79;229.34;3096.14;Credit Card;07/24/2024;Cancelled;469.44;West,Coast
+TXN410535;0000584;Michael McCarthy;4377.38;350.19;4727.57;PayPal;02/21/2023;Completed;43.66;East|Region
+TXN989022;0009090;Sarah O'Brien;1752.24;140.18;1892.42;Cash;07/11/2024;Refunded;452.21;Central	Zone
+TXN327179;0009935;John O'Brien;2914.78;233.18;3147.96;PayPal;03/12/2024;Pending;342.88;Central	Zone
+TXN507565;0007703;Michael O'Brien;1003.26;80.26;1083.52;Wire Transfer;08/19/2023;Cancelled;410.70;North,East
+TXN522814;0005022;Jane Garcia-Lopez;4271.85;341.75;4613.60;Credit Card;01/06/2024;Completed;301.62;North,East
+TXN364805;0005708;David Garcia-Lopez;2942.44;235.40;3177.84;Cash;02/08/2024;Cancelled;466.06;North,East
+TXN654831;0005839;Jane Smith;587.64;47.01;634.65;Wire Transfer;05/17/2023;Completed;-24.58;East|Region
+TXN368102;0000880;Sarah McCarthy;2607.43;208.59;2816.03;PayPal;09/01/2024;Completed;-58.28;East|Region
+TXN449711;0005403;Michael von Schmidt;4181.39;334.51;4515.90;Credit Card;06/23/2023;Refunded;461.18;West,Coast
+TXN292244;0003316;David McCarthy;4286.98;342.96;4629.94;Wire Transfer;05/14/2024;Refunded;294.40;South|West
+TXN975588;0004378;John O'Brien;2032.55;162.60;2195.16;Cash;03/11/2023;Pending;218.13;East|Region
+TXN113118;0003179;Jane O'Brien;2334.64;186.77;2521.41;Cash;08/04/2023;Cancelled;-13.69;Central	Zone
+TXN284660;0003105;John Smith;4656.19;372.50;5028.68;Debit Card;11/14/2024;Refunded;23.13;South|West
+TXN587602;0002893;Jane O'Brien;805.15;64.41;869.56;Debit Card;02/23/2024;Completed;428.02;East|Region
+TXN920095;0002987;David Smith;660.27;52.82;713.10;Cash;04/01/2023;Refunded;219.99;Central	Zone
+TXN294061;0000382;Sarah Garcia-Lopez;491.34;39.31;530.65;PayPal;04/13/2024;Pending;483.88;West,Coast
+TXN838991;0003544;Jane O'Brien;1108.93;88.71;1197.64;Cash;04/13/2024;Completed;382.28;West,Coast
+TXN193556;0009976;Jane Garcia-Lopez;2964.91;237.19;3202.10;Debit Card;06/26/2024;Cancelled;343.59;West,Coast
+TXN252446;0000784;Michael McCarthy;2901.60;232.13;3133.73;Cash;02/19/2023;Cancelled;472.31;West,Coast
+TXN575673;0008504;David Garcia-Lopez;4181.16;334.49;4515.65;PayPal;11/20/2023;Cancelled;-99.56;North,East
+TXN103064;0007030;John Smith;2872.19;229.77;3101.96;PayPal;07/15/2023;Cancelled;287.88;East|Region
+TXN846546;0002632;John McCarthy;2700.50;216.04;2916.54;Credit Card;03/28/2023;Refunded;215.77;East|Region
+TXN459912;0009678;David Smith;4191.76;335.34;4527.10;Cash;03/27/2024;Completed;205.98;North,East
+TXN149096;0004485;Sarah von Schmidt;4724.42;377.95;5102.37;Wire Transfer;08/01/2023;Refunded;152.00;East|Region
+TXN873486;0001853;Sarah O'Brien;484.38;38.75;523.13;Cash;03/24/2023;Pending;427.82;Central	Zone
+TXN784213;0008638;Michael von Schmidt;2502.56;200.21;2702.77;Credit Card;05/17/2023;Completed;386.56;North,East
+TXN535123;0003504;Michael McCarthy;538.88;43.11;581.99;Wire Transfer;10/02/2024;Completed;364.60;North,East
+TXN582799;0000254;David O'Brien;2969.65;237.57;3207.22;PayPal;12/28/2023;Pending;-1.03;North,East
+TXN245151;0003412;Sarah O'Brien;2157.50;172.60;2330.10;Cash;09/10/2024;Completed;452.22;West,Coast
+TXN609068;0004665;John Garcia-Lopez;2350.79;188.06;2538.85;Wire Transfer;02/10/2023;Completed;322.84;East|Region
+TXN321525;0002212;Jane McCarthy;4412.62;353.01;4765.63;Cash;07/05/2023;Refunded;-84.78;North,East
+TXN144764;0005652;Michael Smith;4611.68;368.93;4980.61;Wire Transfer;12/19/2024;Pending;383.94;North,East
+TXN772007;0004830;David Smith;2833.95;226.72;3060.67;Wire Transfer;09/06/2023;Pending;494.81;Central	Zone
+TXN891307;0008389;David O'Brien;4239.97;339.20;4579.17;PayPal;10/16/2024;Pending;1.73;West,Coast
+TXN497776;0002175;David McCarthy;3623.57;289.89;3913.45;Credit Card;10/12/2023;Cancelled;346.95;North,East
+TXN712607;0006419;Jane Smith;1715.76;137.26;1853.02;Debit Card;01/12/2024;Cancelled;283.13;Central	Zone
+TXN794584;0007454;David McCarthy;3371.14;269.69;3640.83;Credit Card;12/17/2024;Pending;128.97;West,Coast
+TXN786140;0005398;Sarah O'Brien;2970.74;237.66;3208.40;Cash;02/20/2023;Completed;58.43;East|Region
+TXN239726;0008152;John McCarthy;3080.40;246.43;3326.83;Credit Card;08/02/2023;Completed;122.30;Central	Zone
+TXN300878;0002491;David Smith;2209.59;176.77;2386.36;Wire Transfer;03/15/2023;Refunded;333.97;West,Coast
+TXN153649;0008075;Michael McCarthy;1175.20;94.02;1269.22;Debit Card;09/03/2024;Completed;268.20;Central	Zone
+TXN691786;0000049;Sarah Garcia-Lopez;4460.98;356.88;4817.86;Credit Card;12/23/2023;Refunded;302.06;East|Region
+TXN116351;0006711;David McCarthy;1804.40;144.35;1948.75;Debit Card;09/12/2024;Pending;243.76;Central	Zone
+TXN466973;0005854;Jane Garcia-Lopez;173.90;13.91;187.82;Cash;03/27/2024;Completed;426.09;South|West
+TXN486121;0007659;Michael Smith;4266.72;341.34;4608.06;Credit Card;07/16/2024;Refunded;367.54;Central	Zone
+TXN469907;0005344;Sarah von Schmidt;4933.82;394.71;5328.53;Credit Card;01/27/2023;Completed;95.72;East|Region
+TXN753306;0006471;David Smith;2730.50;218.44;2948.94;Cash;01/03/2024;Cancelled;296.90;West,Coast
+TXN375719;0002556;John McCarthy;2390.30;191.22;2581.52;PayPal;07/15/2024;Refunded;342.06;West,Coast
+TXN771114;0007772;Sarah Smith;3148.48;251.88;3400.36;Credit Card;02/21/2023;Refunded;-21.37;West,Coast
+TXN466748;0008577;David Garcia-Lopez;1199.00;95.92;1294.92;PayPal;01/08/2024;Refunded;136.57;South|West
+TXN694486;0000965;Sarah von Schmidt;3930.03;314.40;4244.44;PayPal;12/06/2023;Pending;147.41;West,Coast
+TXN718117;0000792;Michael Smith;848.43;67.87;916.31;Cash;06/04/2024;Cancelled;52.16;West,Coast
+TXN990069;0009291;Sarah O'Brien;2748.01;219.84;2967.85;PayPal;02/01/2024;Cancelled;-24.63;East|Region
+TXN664738;0004445;Sarah McCarthy;655.76;52.46;708.22;Wire Transfer;06/03/2024;Cancelled;-64.63;East|Region
+TXN143496;0009718;Michael Garcia-Lopez;184.48;14.76;199.24;Credit Card;06/26/2024;Pending;226.89;West,Coast
+TXN379302;0008137;Sarah McCarthy;3059.94;244.80;3304.74;Debit Card;12/27/2023;Completed;2.08;East|Region
+TXN167273;0005018;David Garcia-Lopez;537.22;42.98;580.20;Debit Card;04/04/2023;Refunded;440.05;North,East
+TXN133267;0003643;Michael Garcia-Lopez;1941.45;155.32;2096.77;Credit Card;12/16/2024;Cancelled;270.22;West,Coast
+TXN784331;0007899;David Garcia-Lopez;1084.47;86.76;1171.23;Debit Card;02/05/2023;Refunded;-9.94;West,Coast
+TXN918910;0009245;John Garcia-Lopez;4165.09;333.21;4498.30;PayPal;01/20/2024;Pending;-63.60;North,East
+TXN623167;0009686;Sarah Garcia-Lopez;4637.22;370.98;5008.20;Wire Transfer;01/02/2023;Refunded;284.82;West,Coast
+TXN500026;0004535;Michael von Schmidt;2707.72;216.62;2924.34;Cash;02/20/2023;Refunded;272.11;South|West
+TXN804578;0008847;Michael von Schmidt;1901.43;152.11;2053.54;Wire Transfer;04/08/2023;Refunded;122.78;East|Region
+TXN343216;0009467;Sarah O'Brien;2294.14;183.53;2477.68;Credit Card;06/05/2023;Cancelled;277.57;West,Coast
+TXN814709;0007037;Michael Garcia-Lopez;165.01;13.20;178.21;Cash;08/09/2024;Pending;227.56;South|West
+TXN531768;0000422;Jane Garcia-Lopez;4237.03;338.96;4575.99;Wire Transfer;04/07/2024;Completed;112.10;Central	Zone
+TXN458106;0006580;John McCarthy;4206.30;336.50;4542.80;Debit Card;05/17/2024;Cancelled;72.62;West,Coast
+TXN180519;0003134;John Garcia-Lopez;3670.08;293.61;3963.68;Wire Transfer;03/10/2024;Completed;419.79;South|West
+TXN127193;0004113;David Garcia-Lopez;3549.69;283.98;3833.67;PayPal;02/21/2023;Cancelled;192.53;South|West
+TXN957635;0004281;Sarah McCarthy;4463.11;357.05;4820.15;PayPal;10/13/2024;Refunded;-91.39;South|West
+TXN539563;0002653;Sarah Garcia-Lopez;4323.42;345.87;4669.29;Debit Card;04/22/2024;Pending;430.39;Central	Zone
+TXN262629;0005080;Michael O'Brien;2596.00;207.68;2803.68;Wire Transfer;11/15/2024;Cancelled;328.52;East|Region
+TXN629708;0006677;John O'Brien;3223.49;257.88;3481.36;Debit Card;10/12/2024;Cancelled;184.39;East|Region
+TXN808112;0000732;Sarah Garcia-Lopez;1465.26;117.22;1582.48;Credit Card;09/03/2023;Pending;98.11;East|Region
+TXN246998;0000003;David von Schmidt;1515.82;121.27;1637.09;Credit Card;11/09/2023;Cancelled;96.24;North,East
+TXN972935;0003404;Sarah Smith;1613.62;129.09;1742.71;Cash;05/05/2023;Pending;146.15;West,Coast
+TXN496442;0001005;David McCarthy;125.50;10.04;135.54;Debit Card;11/07/2023;Completed;341.90;North,East
+TXN698117;0009794;Jane Smith;1976.56;158.12;2134.68;Cash;08/04/2023;Refunded;440.81;East|Region
+TXN867342;0000673;Sarah von Schmidt;4170.93;333.67;4504.61;Debit Card;03/10/2023;Refunded;298.87;South|West
+TXN494698;0003689;Michael von Schmidt;2364.22;189.14;2553.36;Cash;04/18/2024;Refunded;138.97;West,Coast
+TXN723338;0003990;Michael von Schmidt;2165.86;173.27;2339.13;Debit Card;02/09/2023;Completed;338.55;West,Coast
+TXN353640;0005777;John McCarthy;2545.13;203.61;2748.74;PayPal;12/18/2024;Cancelled;-6.24;West,Coast
+TXN399167;0006879;John Garcia-Lopez;2793.16;223.45;3016.61;Credit Card;11/15/2024;Completed;-30.53;South|West
+TXN791026;0009077;Jane Garcia-Lopez;2105.20;168.42;2273.62;Credit Card;09/13/2023;Completed;-72.58;Central	Zone
+TXN759495;0004241;Jane Garcia-Lopez;146.44;11.72;158.15;Cash;05/19/2023;Refunded;178.20;East|Region
+TXN267982;0000292;David O'Brien;2016.33;161.31;2177.63;Debit Card;11/23/2024;Completed;-26.21;East|Region
+TXN742730;0001770;Sarah Garcia-Lopez;1163.69;93.09;1256.78;PayPal;03/22/2023;Pending;100.83;West,Coast
+TXN129680;0006329;Michael Garcia-Lopez;4992.50;399.40;5391.90;Credit Card;01/26/2024;Refunded;355.38;North,East
+TXN141479;0004656;Sarah Smith;2062.26;164.98;2227.24;Wire Transfer;11/18/2024;Completed;167.12;South|West
+TXN490533;0004628;David McCarthy;1947.54;155.80;2103.34;Debit Card;11/24/2024;Completed;234.25;South|West
+TXN381641;0007992;John von Schmidt;4348.14;347.85;4696.00;PayPal;03/09/2023;Completed;407.91;West,Coast
+TXN546063;0000634;David Smith;2968.35;237.47;3205.82;Credit Card;05/08/2023;Cancelled;293.74;South|West
+TXN392798;0000600;John O'Brien;2873.23;229.86;3103.09;Debit Card;08/03/2024;Completed;466.89;South|West
+TXN378620;0008466;Michael von Schmidt;2490.21;199.22;2689.43;Cash;05/26/2023;Cancelled;105.74;South|West
+TXN210155;0000326;Michael O'Brien;2576.47;206.12;2782.59;Credit Card;10/07/2024;Refunded;451.85;East|Region
+TXN497983;0008252;David O'Brien;601.02;48.08;649.10;Debit Card;03/20/2024;Pending;342.39;North,East
+TXN532525;0000158;David von Schmidt;3699.40;295.95;3995.35;Debit Card;07/21/2024;Cancelled;315.05;North,East
+TXN424609;0005412;Michael von Schmidt;2970.28;237.62;3207.90;Cash;06/14/2023;Refunded;-7.90;West,Coast
+TXN219443;0008161;David O'Brien;2726.68;218.13;2944.82;PayPal;12/03/2024;Cancelled;240.68;East|Region
+TXN872131;0007474;David Garcia-Lopez;780.81;62.46;843.28;Wire Transfer;02/14/2024;Completed;196.93;Central	Zone
+TXN107180;0001538;John O'Brien;2745.59;219.65;2965.24;Debit Card;08/01/2023;Cancelled;172.52;East|Region
+TXN668310;0004037;John McCarthy;1041.00;83.28;1124.27;Cash;10/09/2024;Cancelled;-34.31;East|Region
+TXN874691;0005034;John von Schmidt;2083.84;166.71;2250.55;Credit Card;10/26/2024;Pending;319.80;North,East
+TXN747482;0000902;David von Schmidt;3595.04;287.60;3882.64;Debit Card;07/03/2023;Completed;-47.81;South|West
+TXN967037;0009829;Jane McCarthy;2235.19;178.81;2414.00;Cash;08/24/2023;Refunded;-51.20;East|Region
+TXN690743;0009004;John von Schmidt;2164.43;173.15;2337.58;PayPal;02/23/2023;Cancelled;-11.04;North,East
+TXN455100;0006656;Jane Garcia-Lopez;1206.64;96.53;1303.17;Wire Transfer;08/25/2023;Pending;259.74;Central	Zone
+TXN671622;0004683;Sarah McCarthy;4338.42;347.07;4685.49;Wire Transfer;04/28/2023;Refunded;43.09;East|Region
+TXN268636;0005642;Michael Smith;362.86;29.03;391.89;Credit Card;04/06/2024;Cancelled;387.52;West,Coast
+TXN963188;0004613;John Smith;730.87;58.47;789.34;PayPal;10/23/2024;Pending;348.01;West,Coast
+TXN175936;0002940;Sarah Garcia-Lopez;2492.27;199.38;2691.65;Debit Card;11/23/2024;Cancelled;472.50;Central	Zone
+TXN163554;0004604;Jane von Schmidt;966.27;77.30;1043.57;Wire Transfer;05/05/2023;Cancelled;160.80;East|Region
+TXN612252;0005891;Sarah McCarthy;889.38;71.15;960.53;Cash;10/26/2023;Pending;433.83;East|Region
+TXN830331;0007128;David von Schmidt;838.53;67.08;905.61;Debit Card;10/23/2023;Cancelled;167.50;South|West
+TXN581058;0005652;David O'Brien;2006.73;160.54;2167.27;Wire Transfer;12/19/2023;Pending;264.70;Central	Zone
+TXN484622;0005380;Jane McCarthy;556.90;44.55;601.45;Debit Card;05/19/2023;Completed;-65.39;South|West
+TXN413531;0001147;Jane O'Brien;1564.87;125.19;1690.06;Cash;08/09/2024;Completed;155.94;East|Region
+TXN309432;0000680;David McCarthy;2500.20;200.02;2700.22;Credit Card;02/06/2023;Pending;371.81;East|Region
+TXN111458;0009182;John McCarthy;2527.87;202.23;2730.10;Debit Card;06/18/2024;Cancelled;117.31;South|West
+TXN547509;0006314;David von Schmidt;4767.49;381.40;5148.89;PayPal;03/03/2024;Cancelled;483.47;Central	Zone
+TXN820133;0004836;John von Schmidt;2280.12;182.41;2462.53;Credit Card;08/05/2023;Cancelled;369.29;South|West
+TXN873311;0005281;Michael McCarthy;1641.47;131.32;1772.78;Debit Card;01/22/2023;Completed;54.22;South|West
+TXN297081;0000978;Jane O'Brien;1834.49;146.76;1981.25;Wire Transfer;10/21/2023;Cancelled;498.11;South|West
+TXN818794;0006822;John von Schmidt;3306.31;264.50;3570.81;Credit Card;06/05/2024;Completed;392.33;East|Region
+TXN362045;0002523;John von Schmidt;4859.85;388.79;5248.64;PayPal;10/26/2024;Pending;199.90;West,Coast
+TXN530241;0006033;David Garcia-Lopez;2142.02;171.36;2313.39;Credit Card;10/07/2023;Pending;496.55;Central	Zone
+TXN585497;0003850;Jane McCarthy;1479.42;118.35;1597.77;Cash;09/03/2023;Refunded;204.15;West,Coast
+TXN830181;0008607;David Smith;784.84;62.79;847.62;Credit Card;06/23/2023;Refunded;337.33;North,East
+TXN343572;0004906;David von Schmidt;2997.99;239.84;3237.83;PayPal;03/20/2024;Pending;428.13;Central	Zone
+TXN321318;0009178;David Garcia-Lopez;2133.37;170.67;2304.03;PayPal;09/27/2024;Completed;28.75;West,Coast
+TXN226081;0008397;John Garcia-Lopez;3975.06;318.00;4293.06;PayPal;08/27/2024;Cancelled;227.12;West,Coast
+TXN963501;0005205;Sarah von Schmidt;1341.69;107.33;1449.02;PayPal;09/12/2024;Pending;270.77;East|Region
+TXN606759;0001999;Michael Smith;1801.25;144.10;1945.35;PayPal;08/05/2024;Refunded;259.23;East|Region
+TXN380356;0009838;John Smith;4005.84;320.47;4326.31;Cash;06/22/2023;Completed;251.54;North,East
+TXN692166;0004861;David von Schmidt;3956.51;316.52;4273.03;Cash;12/22/2024;Completed;7.22;West,Coast
+TXN285948;0005406;David McCarthy;1135.36;90.83;1226.19;Credit Card;05/25/2023;Cancelled;210.74;East|Region
+TXN363106;0000081;Jane O'Brien;3866.34;309.31;4175.65;Cash;06/07/2023;Refunded;293.97;East|Region
+TXN614490;0005459;Michael O'Brien;2540.03;203.20;2743.23;Wire Transfer;04/16/2024;Refunded;-99.50;East|Region
+TXN219989;0000777;Jane Smith;4425.17;354.01;4779.18;Wire Transfer;11/21/2023;Completed;-30.62;West,Coast
+TXN833452;0008464;Sarah Smith;4683.60;374.69;5058.29;PayPal;06/11/2023;Refunded;342.01;Central	Zone
+TXN372329;0005275;Michael Smith;2248.46;179.88;2428.34;Credit Card;10/02/2023;Completed;357.74;West,Coast
+TXN456106;0008989;Sarah McCarthy;3803.25;304.26;4107.51;Cash;04/16/2023;Cancelled;-78.27;East|Region
+TXN985324;0003704;Jane Smith;3728.13;298.25;4026.38;PayPal;02/27/2024;Cancelled;383.07;West,Coast
+TXN230531;0005620;Jane McCarthy;502.18;40.17;542.35;Credit Card;03/22/2023;Cancelled;419.27;South|West
+TXN645876;0000464;Jane von Schmidt;2105.42;168.43;2273.86;Cash;07/25/2024;Cancelled;390.97;South|West
+TXN145871;0003982;David McCarthy;4568.22;365.46;4933.68;Debit Card;01/26/2023;Cancelled;232.28;South|West
+TXN574291;0007410;Michael Smith;459.86;36.79;496.65;Cash;07/06/2024;Cancelled;410.57;East|Region
+TXN224244;0009665;David Garcia-Lopez;3618.89;289.51;3908.40;Debit Card;04/15/2023;Cancelled;333.56;East|Region
+TXN792496;0000233;Michael von Schmidt;4882.78;390.62;5273.40;Wire Transfer;10/14/2023;Refunded;16.24;South|West
+TXN355613;0008250;John McCarthy;2863.51;229.08;3092.59;Cash;11/01/2023;Cancelled;17.41;Central	Zone
+TXN773706;0003357;Michael O'Brien;2232.66;178.61;2411.28;Wire Transfer;02/04/2024;Pending;219.52;Central	Zone
+TXN661036;0008822;Sarah von Schmidt;455.04;36.40;491.44;Cash;06/05/2023;Refunded;104.79;South|West
+TXN751258;0006308;John Garcia-Lopez;4724.72;377.98;5102.69;Wire Transfer;05/04/2023;Cancelled;63.95;West,Coast
+TXN446999;0009539;John McCarthy;2622.26;209.78;2832.05;Debit Card;06/04/2023;Pending;-41.56;Central	Zone
+TXN673928;0004975;Jane McCarthy;3294.63;263.57;3558.21;Debit Card;03/18/2024;Refunded;383.03;South|West
+TXN985379;0000324;Jane Smith;1124.53;89.96;1214.49;Wire Transfer;09/01/2024;Pending;91.16;Central	Zone
+TXN883166;0009630;John McCarthy;3888.31;311.06;4199.37;Cash;06/18/2023;Refunded;431.13;Central	Zone
+TXN165966;0005589;John von Schmidt;2731.80;218.54;2950.35;Debit Card;12/10/2023;Completed;413.28;Central	Zone
+TXN802572;0003164;Jane Smith;1845.80;147.66;1993.46;Credit Card;03/11/2023;Refunded;160.12;East|Region
+TXN580291;0006893;John Garcia-Lopez;2513.49;201.08;2714.57;PayPal;09/16/2024;Refunded;3.26;South|West
+TXN506657;0004791;John von Schmidt;2736.58;218.93;2955.51;Credit Card;06/01/2023;Cancelled;50.22;South|West
+TXN954099;0006949;Sarah Smith;1793.48;143.48;1936.96;Wire Transfer;09/12/2023;Pending;496.34;North,East
+TXN729935;0008235;David Garcia-Lopez;1354.43;108.35;1462.78;Cash;05/23/2024;Refunded;176.14;East|Region
+TXN572306;0005470;David Garcia-Lopez;2061.75;164.94;2226.69;PayPal;06/26/2023;Refunded;-86.77;West,Coast
+TXN363742;0004386;Jane Garcia-Lopez;823.43;65.87;889.30;PayPal;02/12/2024;Pending;349.86;West,Coast
+TXN237883;0008151;David O'Brien;2347.63;187.81;2535.44;Wire Transfer;08/28/2023;Refunded;474.73;South|West
+TXN592091;0009612;John McCarthy;3487.70;279.02;3766.72;PayPal;11/06/2024;Cancelled;304.89;West,Coast
+TXN490581;0006140;Jane O'Brien;1484.70;118.78;1603.48;Debit Card;05/24/2024;Pending;164.82;Central	Zone
+TXN282472;0004091;Jane von Schmidt;4805.37;384.43;5189.80;Cash;10/10/2023;Completed;445.78;West,Coast
+TXN803325;0003106;Jane von Schmidt;2629.57;210.37;2839.94;Wire Transfer;07/18/2024;Pending;426.31;Central	Zone
+TXN916832;0007052;Sarah Smith;4506.99;360.56;4867.55;PayPal;11/10/2024;Completed;-65.56;North,East
+TXN751728;0006592;John Garcia-Lopez;1927.99;154.24;2082.23;Wire Transfer;08/25/2024;Cancelled;235.78;West,Coast
+TXN895229;0005290;John McCarthy;2521.44;201.72;2723.16;Credit Card;01/25/2023;Completed;32.04;East|Region
+TXN380648;0004699;Sarah von Schmidt;2940.62;235.25;3175.87;Cash;12/28/2023;Refunded;343.65;West,Coast
+TXN960487;0005262;David McCarthy;3560.14;284.81;3844.96;Cash;10/13/2023;Completed;214.57;North,East
+TXN714349;0007084;David Smith;2719.50;217.56;2937.06;Credit Card;06/23/2024;Cancelled;-29.95;Central	Zone
+TXN636239;0000208;John O'Brien;3636.52;290.92;3927.44;Debit Card;11/26/2023;Pending;163.02;South|West
+TXN972608;0006981;Sarah Smith;2257.84;180.63;2438.46;Debit Card;01/10/2023;Refunded;136.34;East|Region
+TXN945438;0005761;John McCarthy;2419.58;193.57;2613.14;Credit Card;07/07/2023;Cancelled;493.92;South|West
+TXN370540;0009321;David Smith;4494.73;359.58;4854.30;Credit Card;08/11/2024;Pending;-41.26;South|West
+TXN743943;0004212;David Smith;3280.86;262.47;3543.33;Credit Card;01/04/2024;Completed;148.10;South|West
+TXN732922;0009348;Michael Garcia-Lopez;1575.72;126.06;1701.78;Debit Card;02/21/2024;Cancelled;-90.28;Central	Zone
+TXN842175;0007922;Michael Garcia-Lopez;1102.26;88.18;1190.44;Cash;01/02/2023;Cancelled;381.73;South|West
+TXN208400;0000833;David Garcia-Lopez;718.87;57.51;776.37;Wire Transfer;11/22/2023;Pending;490.87;West,Coast
+TXN889218;0000856;David O'Brien;3216.89;257.35;3474.24;Credit Card;10/04/2024;Pending;122.34;East|Region
+TXN304079;0006240;Jane von Schmidt;791.77;63.34;855.11;Wire Transfer;02/17/2023;Completed;-90.24;East|Region
+TXN197085;0007253;John O'Brien;3472.74;277.82;3750.56;Credit Card;09/12/2024;Refunded;15.27;North,East
+TXN836315;0009644;Michael Garcia-Lopez;3871.19;309.70;4180.88;Credit Card;03/18/2024;Cancelled;290.79;Central	Zone
+TXN505518;0003537;Michael O'Brien;3556.59;284.53;3841.12;Debit Card;04/15/2023;Cancelled;455.56;Central	Zone
+TXN173796;0000346;John von Schmidt;2995.83;239.67;3235.50;PayPal;10/06/2024;Refunded;-54.18;East|Region
+TXN721889;0005114;John von Schmidt;153.93;12.31;166.24;Wire Transfer;10/21/2024;Completed;441.39;East|Region
+TXN876411;0006190;Sarah Smith;2158.85;172.71;2331.56;Credit Card;04/15/2024;Completed;327.48;East|Region
+TXN233868;0009738;John McCarthy;346.74;27.74;374.48;Credit Card;02/22/2023;Cancelled;131.13;North,East
+TXN837774;0004526;Jane O'Brien;1607.19;128.58;1735.77;Wire Transfer;06/06/2023;Refunded;3.35;North,East
+TXN483166;0007392;John Smith;4070.12;325.61;4395.73;PayPal;09/26/2023;Completed;36.17;West,Coast
+TXN439052;0000060;John Smith;4580.43;366.43;4946.86;Credit Card;04/14/2023;Refunded;380.21;West,Coast
+TXN751419;0008422;David McCarthy;4336.07;346.89;4682.95;Credit Card;05/05/2024;Pending;262.80;North,East
+TXN405066;0007531;Sarah McCarthy;1245.40;99.63;1345.03;PayPal;07/20/2024;Cancelled;120.95;South|West
+TXN556111;0002667;John Smith;103.30;8.26;111.57;Cash;12/24/2024;Cancelled;133.75;Central	Zone
+TXN267238;0000629;Jane von Schmidt;3273.90;261.91;3535.81;Debit Card;06/24/2023;Refunded;-33.87;Central	Zone
+TXN291988;0008698;John O'Brien;3670.61;293.65;3964.26;Wire Transfer;10/05/2023;Completed;424.85;South|West
+TXN652633;0004010;Sarah Smith;2042.71;163.42;2206.13;PayPal;08/02/2024;Cancelled;257.92;South|West
+TXN511602;0008824;David Garcia-Lopez;3371.35;269.71;3641.05;Cash;04/15/2024;Refunded;170.79;South|West
+TXN228670;0009501;David Smith;4326.09;346.09;4672.18;PayPal;04/05/2023;Refunded;232.23;Central	Zone
+TXN285778;0008781;David O'Brien;643.05;51.44;694.49;Cash;08/02/2024;Pending;67.09;East|Region
+TXN508698;0002412;Michael Smith;3262.01;260.96;3522.97;Debit Card;02/21/2023;Cancelled;-34.73;South|West
+TXN739819;0009473;Sarah Garcia-Lopez;3560.53;284.84;3845.37;Debit Card;04/13/2024;Refunded;446.37;West,Coast
+TXN858343;0003010;Jane Smith;4749.74;379.98;5129.71;Wire Transfer;09/19/2023;Refunded;-56.19;East|Region
+TXN431096;0008576;Jane Smith;3856.80;308.54;4165.34;Credit Card;10/23/2023;Cancelled;132.24;West,Coast
+TXN661135;0001519;Sarah McCarthy;1474.15;117.93;1592.08;PayPal;04/17/2023;Completed;331.89;West,Coast
+TXN949495;0003894;Sarah von Schmidt;1176.97;94.16;1271.13;Cash;11/12/2023;Refunded;84.01;West,Coast
+TXN481264;0003364;Jane O'Brien;1818.69;145.50;1964.19;Wire Transfer;05/07/2023;Pending;201.70;East|Region
+TXN759239;0001551;Sarah O'Brien;3016.62;241.33;3257.95;PayPal;01/14/2024;Cancelled;175.57;North,East
+TXN359537;0008136;David O'Brien;1568.58;125.49;1694.06;Credit Card;03/06/2023;Cancelled;205.28;West,Coast
+TXN375428;0008094;David McCarthy;1609.37;128.75;1738.12;PayPal;02/22/2023;Completed;380.44;East|Region
+TXN503877;0002205;Sarah von Schmidt;621.69;49.74;671.42;Wire Transfer;05/16/2024;Refunded;65.25;North,East

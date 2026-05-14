@@ -1,0 +1,341 @@
+﻿sno,full_name,first_name,middle_name,last_name,lawyer_or_clerk,bar_exam_status,fired_from_job,city,state,age
+1,Avery Zen Adams,Avery,Zen,Adams,YES,Fail,YES,Pierre, SD,46
+2,Layla Van Adams,Layla,Van,Adams,YES,Fail,NO,Topeka, KS,48
+3,Taylor Sky Adams,Taylor,Sky,Adams,YES,Fail,NO,Frankfort, KY,52
+4,Ashley Sam Allen,Ashley,Sam,Allen,YES,Pass,NO,Salem, OR,45
+5,Kelly Rye Allen,Kelly,Rye,Allen,YES,Fail,YES,Columbia, SC,28
+6,Sophia Ray Allen,Sophia,Ray,Allen,NO,,NO,Dover, DE,49
+7,Dominic Max Alvarez,Dominic,Max,Alvarez,YES,Pass,NO,San Juan, PR,52
+8,Gavin Mac Alvarez,Gavin,Mac,Alvarez,NO,,YES,Atlanta, GA,32
+9,Alexis Kit Anderson,Alexis,Kit,Anderson,NO,,YES,St. Paul, MN,30
+10,Jose Kai Anderson,Jose,Kai,Anderson,NO,,NO,Baton Rouge, LA,40
+11,Sam Jay Anderson,Sam,Jay,Anderson,YES,Pass,NO,Oklahoma City, OK,50
+12,Cheyenne Fox Bailey,Cheyenne,Fox,Bailey,YES,Fail,NO,Boston, MA,53
+13,Emilia Ben Bailey,Emilia,Ben,Bailey,YES,Pass,YES,Montpelier, VT,54
+14,Ayla Ash Baker,Ayla,Ash,Baker,YES,Pass,YES,Boise, ID,43
+15,Leilani Art Baker,Leilani,Art,Baker,NO,,NO,Salt Lake City, UT,36
+16,Theodore Wolf Baker,Theodore,Wolf,Baker,YES,Pass,NO,Augusta, ME,37
+17,Daniel Tate Bennet,Daniel,Tate,Bennet,NO,,NO,Pierre, SD,48
+18,Faith Seth Bennet,Faith,Seth,Bennet,YES,Fail,NO,Wilmington, DE,46
+19,Colton Sage Brooks,Colton,Sage,Brooks,NO,,NO,Albany, NY,44
+20,Evelyn Rhys Brooks,Evelyn,Rhys,Brooks,YES,Fail,YES,San Jose, CA,29
+21,Abigail Reed Brown,Abigail,Reed,Brown,NO,,NO,Raleigh, NC,50
+22,Jenna Paul Brown,Jenna,Paul,Brown,YES,Pass,YES,St. Paul, MN,30
+23,Penelope Onyx Brown,Penelope,Onyx,Brown,YES,Pass,NO,Wilmington, DE,50
+24,Bella Nova Campbell,Bella,Nova,Campbell,YES,Pass,NO,Sacramento, CA,29
+25,Lexi Nico Campbell,Lexi,Nico,Campbell,NO,,NO,Honolulu, HI,30
+26,Trevor Nash Campbell,Trevor,Nash,Campbell,YES,Fail,YES,Topeka, KS,42
+27,Benjamin Mark Carter,Benjamin,Mark,Carter,YES,Fail,NO,Little Rock, AR,55
+28,Liliana Leif Carter,Liliana,Leif,Carter,YES,Fail,NO,Tallahassee, FL,38
+29,Tyler Lane Carter,Tyler,Lane,Carter,YES,Fail,YES,Des Moines, IA,53
+30,Dylan Knox Castillo,Dylan,Knox,Castillo,YES,Fail,NO,Salem, OR,51
+31,Gianna Jude Castillo,Gianna,Jude,Castillo,NO,,NO,St. Petersburg, FL,34
+32,Connor John Chavez,Connor,John,Chavez,NO,,YES,Jefferson City, MO,50
+33,Everly Jack Chavez,Everly,Jack,Chavez,YES,Pass,YES,Oakland, CA,29
+34,Andrea Huck Clark,Andrea,Huck,Clark,NO,,NO,Des Moines, IA,41
+35,Katelyn Grey Clark,Katelyn,Grey,Clark,NO,,YES,Salem, OR,55
+36,Shane Gray Clark,Shane,Gray,Clark,YES,Pass,YES,Las Vegas, NV,31
+37,Brooks Gage Collins,Brooks,Gage,Collins,YES,Fail,YES,Charleston, WV,30
+38,Luke Finn Collins,Luke,Finn,Collins,YES,Fail,YES,Cheyenne, WY,44
+39,William Ever Collins,William,Ever,Collins,NO,,YES,Helena, MT,55
+40,Carlos Drew Cook,Carlos,Drew,Cook,NO,,YES,Baton Rouge, LA,37
+41,Charlotte Dash Cooper,Charlotte,Dash,Cooper,YES,Pass,NO,Augusta, ME,27
+42,Ellie Cruz Cooper,Ellie,Cruz,Cooper,NO,,NO,Cheyenne, WY,37
+43,Claire Crew Cox,Claire,Crew,Cox,NO,,NO,Indianapolis, IN,37
+44,Erin Colt Cox,Erin,Colt,Cox,YES,Pass,NO,Mobile, AL,30
+45,Brooke Cole Cruz,Brooke,Cole,Cruz,NO,,YES,Richmond, VA,39
+46,Luis Clay Cruz,Luis,Clay,Cruz,YES,Fail,YES,Charleston, WV,33
+47,Weston Cash Cruz,Weston,Cash,Cruz,YES,Pass,YES,Jefferson City, MO,39
+48,Adeline Beck Davis,Adeline,Beck,Davis,YES,Pass,NO,Denver, CO,45
+49,Jesse Bear Davis,Jesse,Bear,Davis,NO,,YES,Newark, NJ,31
+50,Riley Stone Davis,Riley,Stone,Davis,NO,,YES,Chicago, IL,31
+51,Brianna River Diaz,Brianna,River,Diaz,YES,Pass,NO,Hartford, CT,43
+52,Lucas Raven Diaz,Lucas,Raven,Diaz,NO,,YES,Springfield, IL,25
+53,Waylon Ralph Diaz,Waylon,Ralph,Diaz,YES,Pass,YES,Concord, NH,48
+54,Brooklyn Oscar Edwards,Brooklyn,Oscar,Edwards,YES,Pass,YES,Denver, CO,42
+55,Luka Orion Edwards,Luka,Orion,Edwards,NO,,NO,Boise, ID,39
+56,Will Ocean Edwards,Will,Ocean,Edwards,YES,Pass,YES,Carson City, NV,30
+57,Brendan Louis Evans,Brendan,Louis,Evans,NO,,NO,Phoenix, AZ,36
+58,Logan James Evans,Logan,James,Evans,YES,Fail,YES,Sacramento, CA,26
+59,Violet Henry Evans,Violet,Henry,Evans,YES,Pass,NO,Annapolis, MD,42
+60,Autumn Hayes Flores,Autumn,Hayes,Flores,YES,Fail,YES,Topeka, KS,31
+61,Laura Grant Flores,Laura,Grant,Flores,YES,Pass,YES,Phoenix, AZ,27
+62,Sydney Flynn Flores,Sydney,Flynn,Flores,NO,,NO,Jackson, MS,45
+63,Elias David Foster,Elias,David,Foster,YES,Fail,NO,Phoenix, AZ,26
+64,Hannah Cedar Foster,Hannah,Cedar,Foster,YES,Pass,YES,Indianapolis, IN,41
+65,Adam Bowie Garcia,Adam,Bowie,Garcia,YES,Pass,YES,Hartford, CT,34
+66,Jeremiah Bodhi Garcia,Jeremiah,Bodhi,Garcia,NO,,NO,Albuquerque, NM,27
+67,Rachel Atlas Garcia,Rachel,Atlas,Garcia,YES,Fail,NO,Tampa, FL,50
+68,Brandon Aries Gomez,Brandon,Aries,Gomez,YES,Fail,YES,Salt Lake City, UT,39
+69,Lily Arden Gomez,Lily,Arden,Gomez,NO,,YES,Montpelier, VT,43
+70,Vanessa Zephyr Gomez,Vanessa,Zephyr,Gomez,NO,,NO,St. Paul, MN,42
+71,Alexa Xavier Gonzales,Alexa,Xavier,Gonzales,NO,,YES,Columbia, SC,31
+72,Jonathan Wilder Gonzales,Jonathan,Wilder,Gonzales,NO,,NO,Concord, NH,34
+73,Ryan Thomas Gonzales,Ryan,Thomas,Gonzales,NO,,NO,Des Moines, IA,33
+74,Danielle Sirius Gray,Danielle,Sirius,Gray,YES,Pass,YES,Columbia, SC,25
+75,Freya Robert Gray,Freya,Robert,Gray,YES,Pass,NO,Hartford, CT,48
+76,Ava Lennox Green,Ava,Lennox,Green,NO,,YES,Jefferson City, MO,35
+77,Lauren Lennon Green,Lauren,Lennon,Green,YES,Fail,YES,Atlanta, GA,39
+78,Tanner Joseph Green,Tanner,Joseph,Green,YES,Pass,NO,Springfield, IL,50
+79,Carter Hunter Gutierrez,Carter,Hunter,Gutierrez,YES,Pass,YES,Jackson, MS,33
+80,Elizabeth George Gutierrez,Elizabeth,George,Gutierrez,YES,Pass,YES,Fresno, CA,25
+81,Bailey Forest Hall,Bailey,Forest,Hall,YES,Fail,NO,Olympia, WA,28
+82,Leo Edward Hall,Leo,Edward,Hall,YES,Pass,YES,Madison, WI,30
+83,Thomas Easton Hall,Thomas,Easton,Hall,YES,Fail,NO,Boise, ID,38
+84,Amira Danger Harris,Amira,Danger,Harris,YES,Fail,NO,Honolulu, HI,54
+85,Kaitlyn Brooks Harris,Kaitlyn,Brooks,Harris,YES,Pass,YES,Raleigh, NC,44
+86,Serenity Blaise Harris,Serenity,Blaise,Harris,NO,,NO,Portland, ME,26
+87,Aiden Apollo Hernandez,Aiden,Apollo,Hernandez,NO,,NO,Phoenix, AZ,45
+88,Joey Winston Hernandez,Joey,Winston,Hernandez,YES,Fail,YES,Trenton, NJ,41
+89,Rowan William Hernandez,Rowan,William,Hernandez,YES,Pass,NO,Wichita, KS,36
+90,Austin Jericho Hill,Austin,Jericho,Hill,NO,,YES,Lansing, MI,28
+91,Landon Hendrix Hill,Landon,Hendrix,Hill,YES,Pass,NO,Little Rock, AR,27
+92,Summer Francis Hill,Summer,Francis,Hill,NO,,NO,St. Louis, MO,51
+93,Christian Charles Howard,Christian,Charles,Howard,YES,Fail,YES,Des Moines, IA,32
+94,Enzo Anthony Howard,Enzo,Anthony,Howard,NO,,YES,Austin, TX,48
+95,Destiny Amadeus Hughes,Destiny,Amadeus,Hughes,YES,Pass,YES,Oklahoma City, OK,30
+96,Gabriella Maverick Hughes,Gabriella,Maverick,Hughes,YES,Pass,YES,Honolulu, HI,41
+97,Amanda Lawrence Jackson,Amanda,Lawrence,Jackson,NO,,NO,Helena, MT,28
+98,Josiah Valentine Jackson,Josiah,Valentine,Jackson,YES,Pass,YES,Carson City, NV,44
+99,Sara Christian Jackson,Sara,Christian,Jackson,YES,Pass,NO,Boston, MA,33
+100,Courtney Alexander James,Courtney,Alexander,James,NO,,NO,Honolulu, HI,37
+101,Ezra Brooks James,Ezra,Brooks,James,NO,,NO,Richmond, VA,52
+102,Elijah Blaise Jimenez,Elijah,Blaise,Jimenez,YES,Pass,NO,Olympia, WA,34
+103,Harper Apollo Jimenez,Harper,Apollo,Jimenez,YES,Fail,NO,Chicago, IL,42
+104,Aaron Stone Johnson,Aaron,Stone,Johnson,NO,,YES,Harrisburg, PA,55
+105,Jaxon River Johnson,Jaxon,River,Johnson,YES,Fail,NO,Jackson, MS,31
+106,Patrick Raven Johnson,Patrick,Raven,Johnson,NO,,YES,Jacksonville, FL,48
+107,Adalynn Ralph Jones,Adalynn,Ralph,Jones,NO,,NO,Bismarck, ND,34
+108,Jennifer Oscar Jones,Jennifer,Oscar,Jones,YES,Fail,NO,Boston, MA,37
+109,Peter Orion Jones,Peter,Orion,Jones,YES,Fail,NO,Fort Lauderdale, FL,30
+110,Chris Ocean Kelly,Chris,Ocean,Kelly,YES,Fail,NO,Concord, NH,38
+111,Emma Louis Kelly,Emma,Louis,Kelly,YES,Pass,NO,Riverside, CA,34
+112,Christopher James Kim,Christopher,James,Kim,YES,Pass,NO,Helena, MT,36
+113,Erica Henry Kim,Erica,Henry,Kim,YES,Fail,YES,Long Beach, CA,45
+114,Athena Hayes King,Athena,Hayes,King,YES,Pass,NO,Frankfort, KY,41
+115,Kelsey Grant King,Kelsey,Grant,King,YES,Fail,YES,Harrisburg, PA,42
+116,Sophie Flynn King,Sophie,Flynn,King,YES,Fail,YES,Billings, MT,34
+117,Amari David Lee,Amari,David,Lee,YES,Pass,NO,Boise, ID,46
+118,Julia Cedar Lee,Julia,Cedar,Lee,YES,Pass,YES,Phoenix, AZ,40
+119,Savannah Bowie Lee,Savannah,Bowie,Lee,NO,,NO,Baltimore, MD,47
+120,Anna Bodhi Lewis,Anna,Bodhi,Lewis,YES,Pass,NO,Dover, DE,49
+121,Katie Atlas Lewis,Katie,Atlas,Lewis,NO,,NO,Santa Fe, NM,38
+122,Sierra Aries Lewis,Sierra,Aries,Lewis,NO,,YES,Louisville, KY,26
+123,Eli Arden Long,Eli,Arden,Long,YES,Fail,YES,Salt Lake City, UT,26
+124,Hailey Wolf Long,Hailey,Wolf,Long,NO,,NO,Boston, MA,48
+125,Alex Tate Lopez,Alex,Tate,Lopez,YES,Fail,YES,Providence, RI,51
+126,John Seth Lopez,John,Seth,Lopez,YES,Fail,YES,Lincoln, NE,36
+127,Ruby Sage Lopez,Ruby,Sage,Lopez,NO,,YES,Indianapolis, IN,26
+128,Amara Rhys Martin,Amara,Rhys,Martin,YES,Fail,YES,Columbus, OH,35
+129,Josie Reed Martin,Josie,Reed,Martin,YES,Fail,NO,Jefferson City, MO,37
+130,Sarah Paul Martin,Sarah,Paul,Martin,YES,Pass,NO,Hartford, CT,30
+131,Aidan Onyx Martinez,Aidan,Onyx,Martinez,NO,,NO,Albany, NY,48
+132,Joe Nova Martinez,Joe,Nova,Martinez,YES,Fail,NO,Annapolis, MD,30
+133,Roman Nico Martinez,Roman,Nico,Martinez,NO,,YES,Honolulu, HI,52
+134,David Nash Mendoza,David,Nash,Mendoza,YES,Pass,YES,Providence, RI,37
+135,Gabby Mark Mendoza,Gabby,Mark,Mendoza,YES,Pass,YES,Boise, ID,47
+136,Addison Leif Miller,Addison,Leif,Miller,YES,Pass,NO,Lincoln, NE,42
+137,Jeremy Lane Miller,Jeremy,Lane,Miller,YES,Pass,YES,Augusta, ME,25
+138,Rebecca Knox Miller,Rebecca,Knox,Miller,YES,Fail,YES,Atlanta, GA,49
+139,Ben Jude Mitchell,Ben,Jude,Mitchell,YES,Pass,NO,Madison, WI,46
+140,Liam John Mitchell,Liam,John,Mitchell,YES,Pass,YES,Denver, CO,43
+141,Tristan Jack Mitchell,Tristan,Jack,Mitchell,NO,,NO,Indianapolis, IN,42
+142,Alyssa Huck Moore,Alyssa,Huck,Moore,NO,,NO,Baton Rouge, LA,51
+143,Joshua Grey Moore,Joshua,Grey,Moore,YES,Fail,YES,Denver, CO,25
+144,Santiago Gray Moore,Santiago,Gray,Moore,YES,Fail,YES,Manchester, NH,42
+145,Cameron Gage Morales,Cameron,Gage,Morales,NO,,NO,Lansing, MI,33
+146,Maddie Finn Morales,Maddie,Finn,Morales,NO,,NO,Boston, MA,35
+147,Zach Ever Morales,Zach,Ever,Morales,NO,,NO,Bismarck, ND,46
+148,Charlie Drew Morgan,Charlie,Drew,Morgan,YES,Fail,YES,Annapolis, MD,48
+149,Elliana Dash Morgan,Elliana,Dash,Morgan,YES,Fail,YES,Little Rock, AR,30
+150,Caleb Cruz Morris,Caleb,Cruz,Morris,YES,Pass,NO,Topeka, KS,49
+151,Mackenzie Crew Morris,Mackenzie,Crew,Morris,NO,,NO,Augusta, ME,31
+152,Xavier Colt Morris,Xavier,Colt,Morris,NO,,NO,Albany, NY,50
+153,Camila Cole Murphy,Camila,Cole,Murphy,YES,Fail,YES,Frankfort, KY,48
+154,Madeline Clay Murphy,Madeline,Clay,Murphy,YES,Pass,YES,Annapolis, MD,55
+155,Zachary Cash Murphy,Zachary,Cash,Murphy,NO,,NO,Raleigh, NC,47
+156,Elena Beck Myers,Elena,Beck,Myers,YES,Fail,YES,Charleston, WV,29
+157,Greyson Bear Myers,Greyson,Bear,Myers,NO,,YES,Miami, FL,26
+158,Axel Zen Nelson,Axel,Zen,Nelson,NO,,YES,Nashville, TN,40
+159,Leah Van Nelson,Leah,Van,Nelson,YES,Fail,YES,Frankfort, KY,31
+160,Theo Sky Nelson,Theo,Sky,Nelson,YES,Pass,NO,Baton Rouge, LA,38
+161,Aurora Sam Nguyen,Aurora,Sam,Nguyen,YES,Fail,NO,San Juan, PR,51
+162,Lainey Rye Nguyen,Lainey,Rye,Nguyen,YES,Pass,YES,Indianapolis, IN,52
+163,Steven Ray Nguyen,Steven,Ray,Nguyen,YES,Fail,NO,Washington, DC,30
+164,Charles Max Ortiz,Charles,Max,Ortiz,YES,Pass,NO,Lincoln, NE,51
+165,Ella Mac Ortiz,Ella,Mac,Ortiz,YES,Fail,YES,Sacramento, CA,26
+166,Brittany Kit Parker,Brittany,Kit,Parker,YES,Fail,YES,Boise, ID,35
+167,Lucy Kai Parker,Lucy,Kai,Parker,YES,Fail,NO,Dover, DE,46
+168,Wesley Jay Parker,Wesley,Jay,Parker,NO,,NO,Lincoln, NE,44
+169,Eleanor Fox Patel,Eleanor,Fox,Patel,YES,Fail,YES,Bakersfield, CA,43
+170,Grayson Ben Patel,Grayson,Ben,Patel,YES,Fail,NO,Orlando, FL,31
+171,Amber Ash Perez,Amber,Ash,Perez,NO,,NO,Little Rock, AR,25
+172,Julian Art Perez,Julian,Art,Perez,YES,Fail,YES,Manchester, NH,52
+173,Scarlett Gray Perez,Scarlett,Gray,Perez,YES,Pass,YES,Newark, NJ,48
+174,Chase Grey Peterson,Chase,Grey,Peterson,YES,Fail,YES,Saint Paul, MN,49
+175,Emery Huck Peterson,Emery,Huck,Peterson,NO,,NO,Los Angeles, CA,47
+176,Breanna Jack Phillips,Breanna,Jack,Phillips,YES,Pass,NO,Cheyenne, WY,55
+177,Lincoln John Phillips,Lincoln,John,Phillips,YES,Fail,YES,Hartford, CT,34
+178,Victoria Jude Phillips,Victoria,Jude,Phillips,YES,Fail,YES,Boston, MA,51
+179,Devin Knox Price,Devin,Knox,Price,YES,Fail,NO,Harrisburg, PA,27
+180,Garrett Lane Price,Garrett,Lane,Price,NO,,NO,Tampa, FL,28
+181,Andrew Leif Ramirez,Andrew,Leif,Ramirez,NO,,NO,Carson City, NV,38
+182,Katherine Mark Ramirez,Katherine,Mark,Ramirez,NO,,YES,Providence, RI,43
+183,Shelby Nash Ramirez,Shelby,Nash,Ramirez,NO,,NO,Los Angeles, CA,38
+184,Christina Nico Ramos,Christina,Nico,Ramos,YES,Fail,NO,Carson City, NV,45
+185,Eric Nova Ramos,Eric,Nova,Ramos,NO,,NO,San Diego, CA,43
+186,Chloe Onyx Reed,Chloe,Onyx,Reed,YES,Pass,NO,Trenton, NJ,37
+187,Emily Paul Reed,Emily,Paul,Reed,YES,Pass,YES,San Francisco, CA,40
+188,Bryan Reed Reyes,Bryan,Reed,Reyes,NO,,YES,Dover, DE,40
+189,Luna Rhys Reyes,Luna,Rhys,Reyes,YES,Pass,NO,Des Moines, IA,32
+190,Willow Sage Reyes,Willow,Sage,Reyes,NO,,YES,Trenton, NJ,36
+191,Cody Seth Richardson,Cody,Seth,Richardson,YES,Pass,YES,Raleigh, NC,30
+192,Eva Tate Richardson,Eva,Tate,Richardson,YES,Pass,NO,Denver, CO,31
+193,Beau Wolf Rivera,Beau,Wolf,Rivera,YES,Pass,NO,Atlanta, GA,29
+194,Levi Art Rivera,Levi,Art,Rivera,NO,,NO,Richmond, VA,34
+195,Tiffany Ash Rivera,Tiffany,Ash,Rivera,NO,,NO,Honolulu, HI,51
+196,Blake Ben Roberts,Blake,Ben,Roberts,YES,Pass,YES,Montpelier, VT,49
+197,Lillian Fox Roberts,Lillian,Fox,Roberts,NO,,YES,Boise, ID,31
+198,Valentina Jay Roberts,Valentina,Jay,Roberts,NO,,NO,Lansing, MI,55
+199,Anthony Kai Robinson,Anthony,Kai,Robinson,YES,Fail,NO,Jackson, MS,48
+200,Kayden Kit Robinson,Kayden,Kit,Robinson,NO,,YES,San Juan, PR,46
+201,Silas Mac Robinson,Silas,Mac,Robinson,YES,Fail,NO,Little Rock, AR,52
+202,Adrian Max Rodriguez,Adrian,Max,Rodriguez,YES,Fail,YES,Santa Fe, NM,53
+203,Jessica Ray Rodriguez,Jessica,Ray,Rodriguez,YES,Fail,NO,Helena, MT,27
+204,Robert Rye Rodriguez,Robert,Rye,Rodriguez,NO,,YES,Boise, ID,49
+205,Caroline Sam Rogers,Caroline,Sam,Rogers,YES,Fail,YES,Bismarck, ND,41
+206,Eliana Sky Ross,Eliana,Sky,Ross,YES,Pass,YES,Stockton, CA,32
+207,Haley Van Ross,Haley,Van,Ross,NO,,YES,Baltimore, MD,46
+208,Delilah Zen Ruiz,Delilah,Zen,Ruiz,NO,,YES,Nashville, TN,33
+209,Gabriel Alexander Ruiz,Gabriel,Alexander,Ruiz,NO,,YES,Fort Lauderdale, FL,34
+210,Amy Christian Sanchez,Amy,Christian,Sanchez,YES,Fail,YES,Atlanta, GA,45
+211,Kate Valentine Sanchez,Kate,Valentine,Sanchez,YES,Fail,YES,Austin, TX,25
+212,Seth Lawrence Sanchez,Seth,Lawrence,Sanchez,NO,,YES,Boise, ID,29
+213,Eden Maverick Sanders,Eden,Maverick,Sanders,YES,Pass,NO,San Bernardino, CA,40
+214,Grace Amadeus Sanders,Grace,Amadeus,Sanders,YES,Fail,YES,Jacksonville, FL,27
+215,Aubrey Anthony Scott,Aubrey,Anthony,Scott,YES,Fail,NO,Los Angeles, CA,32
+216,Kinsley Charles Scott,Kinsley,Charles,Scott,NO,,YES,Columbus, OH,46
+217,Stephanie Francis Scott,Stephanie,Francis,Scott,NO,,NO,Omaha, NE,35
+218,Aaliyah Hendrix Smith,Aaliyah,Hendrix,Smith,YES,Pass,YES,Augusta, ME,37
+219,Jasper Jericho Smith,Jasper,Jericho,Smith,NO,,YES,Topeka, KS,49
+220,Parker William Smith,Parker,William,Smith,YES,Fail,NO,St. Petersburg, FL,31
+221,Caitlin Winston Stewart,Caitlin,Winston,Stewart,YES,Fail,YES,Columbus, OH,44
+222,Lyla Apollo Stewart,Lyla,Apollo,Stewart,YES,Fail,NO,Olympia, WA,27
+223,Wyatt Blaise Stewart,Wyatt,Blaise,Stewart,YES,Pass,YES,Jackson, MS,34
+224,Allison Brooks Taylor,Allison,Brooks,Taylor,NO,,YES,Washington, DC,33
+225,Josh Danger Taylor,Josh,Danger,Taylor,NO,,YES,Little Rock, AR,51
+226,Samuel Easton Taylor,Samuel,Easton,Taylor,NO,,NO,Minneapolis, MN,55
+227,Alice Edward Thomas,Alice,Edward,Thomas,NO,,YES,Indianapolis, IN,27
+228,Joseph Forest Thomas,Joseph,Forest,Thomas,YES,Fail,NO,Los Angeles, CA,33
+229,Samantha George Thomas,Samantha,George,Thomas,NO,,NO,Albuquerque, NM,30
+230,Amelia Hunter Thompson,Amelia,Hunter,Thompson,NO,,NO,Annapolis, MD,50
+231,Justin Joseph Thompson,Justin,Joseph,Thompson,NO,,NO,Frankfort, KY,44
+232,Sean Lennon Thompson,Sean,Lennon,Thompson,NO,,NO,Phoenix, AZ,37
+233,Audrey Lennox Torres,Audrey,Lennox,Torres,YES,Fail,YES,Concord, NH,38
+234,Kyle Robert Torres,Kyle,Robert,Torres,YES,Pass,NO,Pierre, SD,27
+235,Stephen Sirius Torres,Stephen,Sirius,Torres,YES,Fail,NO,Tallahassee, FL,54
+236,Brian Thomas Turner,Brian,Thomas,Turner,YES,Fail,YES,Tallahassee, FL,51
+237,Luca Wilder Turner,Luca,Wilder,Turner,NO,,YES,Baton Rouge, LA,26
+238,Walker Xavier Turner,Walker,Xavier,Turner,NO,,NO,Santa Fe, NM,54
+239,Aria Zephyr Walker,Aria,Zephyr,Walker,YES,Pass,YES,Austin, TX,27
+240,Kayla Arden Walker,Kayla,Arden,Walker,YES,Fail,NO,Albany, NY,38
+241,Skylar Aries Walker,Skylar,Aries,Walker,NO,,YES,New Orleans, LA,45
+242,James Cley Baker,James,Cley,Baker,NO,,NO,New York City, NY,29
+243,Clara Atlas Ward,Clara,Atlas,Ward,YES,Pass,YES,Boise, ID,37
+244,Ethan Bodhi Ward,Ethan,Bodhi,Ward,YES,Fail,NO,Madison, WI,41
+245,Cole Bowie Watson,Cole,Bowie,Watson,YES,Pass,NO,Springfield, IL,49
+246,Evan Cedar Watson,Evan,Cedar,Watson,YES,Pass,NO,Anchorage, AK,53
+247,Amir David White,Amir,David,White,NO,,NO,Springfield, IL,35
+248,Kai Flynn White,Kai,Flynn,White,YES,Fail,YES,Oklahoma City, OK,45
+249,Sebastian Grant White,Sebastian,Grant,White,YES,Pass,YES,New York City, NY,42
+250,Abby Hayes Williams,Abby,Hayes,Williams,NO,,YES,Boston, MA,31
+251,Jayden Henry Williams,Jayden,Henry,Williams,NO,,NO,Tallahassee, FL,25
+252,Paul James Williams,Paul,James,Williams,NO,,NO,Hartford, CT,40
+253,Alexander Louis Wilson,Alexander,Louis,Wilson,YES,Pass,YES,Trenton, NJ,55
+254,Jordan Ocean Wilson,Jordan,Ocean,Wilson,NO,,NO,Lansing, MI,45
+255,Sadie Orion Wilson,Sadie,Orion,Wilson,YES,Pass,YES,Denver, CO,27
+256,Cooper Oscar Wood,Cooper,Oscar,Wood,YES,Fail,NO,Santa Fe, NM,54
+257,Ezekiel Ralph Wood,Ezekiel,Ralph,Wood,NO,,YES,Santa Ana, CA,30
+258,Atlas Raven Wright,Atlas,Raven,Wright,NO,,YES,Oklahoma City, OK,27
+259,Kevin River Wright,Kevin,River,Wright,YES,Pass,YES,Nashville, TN,39
+260,Stella Stone Wright,Stella,Stone,Wright,YES,Pass,NO,Atlanta, GA,40
+261,Asher Bear Young,Asher,Bear,Young,YES,Pass,NO,Tallahassee, FL,30
+262,Kaylee Beck Young,Kaylee,Beck,Young,YES,Pass,YES,Bismarck, ND,36
+263,Sofia Cash Young,Sofia,Cash,Young,YES,Fail,NO,Detroit, MI,43
+264,Hazel Clay Jackson,Hazel,Clay,Jackson,YES,Fail,YES,Des Moines, IA,48
+265,Heather Cole Jackson,Heather,Cole,Jackson,NO,,NO,Wichita, KS,41
+266,Henry Colt Jackson,Henry,Colt,Jackson,NO,,NO,Louisville, KY,54
+267,Hudson Crew James,Hudson,Crew,James,YES,Fail,YES,New Orleans, LA,28
+268,Hunter Cruz James,Hunter,Cruz,James,NO,,YES,Portland, ME,31
+269,Ian Dash Jimenez,Ian,Dash,Jimenez,NO,,NO,Detroit, MI,33
+270,Iris Drew Jimenez,Iris,Drew,Jimenez,YES,Fail,NO,Minneapolis, MN,48
+271,Isaac Ever Johnson,Isaac,Ever,Johnson,NO,,NO,Jackson, MS,49
+272,Isabella Finn Johnson,Isabella,Finn,Johnson,YES,Fail,NO,St. Louis, MO,37
+273,Isaiah Gage Johnson,Isaiah,Gage,Johnson,NO,,YES,Billings, MT,51
+274,Jay Colby Baylor,Jay,Colby,Baylor,YES,Pass,YES,Oklahoma City, OK,42
+275,Isla Hayes Jones,Isla,Hayes,Jones,YES,Fail,YES,Omaha, NE,28
+276,Ivy Hendrix Jones,Ivy,Hendrix,Jones,YES,Fail,NO,Las Vegas, NV,37
+277,Jack Henry Jones,Jack,Henry,Jones,YES,Fail,YES,Hartford, CT,43
+278,Jackson Huck Kelly,Jackson,Huck,Kelly,YES,Fail,YES,Dover, DE,44
+279,Jacob Hunter Kelly,Jacob,Hunter,Kelly,NO,,NO,Washington, DC,37
+280,Jade Jack Kim,Jade,Jack,Kim,YES,Pass,YES,Atlanta, GA,29
+281,Jake James Kim,Jake,James,Kim,YES,Fail,YES,Honolulu, HI,52
+282,James Jay King,James,Jay,King,NO,,NO,Boise, ID,25
+283,Jared Jericho King,Jared,Jericho,King,YES,Fail,NO,Springfield, IL,32
+284,Jasmine John King,Jasmine,John,King,YES,Fail,NO,Indianapolis, IN,50
+285,Jason Joseph Lee,Jason,Joseph,Lee,YES,Pass,NO,Des Moines, IA,46
+286,Madelyn Jude Lee,Madelyn,Jude,Lee,NO,,YES,Lansing, MI,43
+287,Madison Kai Lee,Madison,Kai,Lee,YES,Pass,NO,Saint Paul, MN,50
+288,Maggie Kit Lewis,Maggie,Kit,Lewis,YES,Pass,YES,Jackson, MS,45
+289,Makayla Knox Lewis,Makayla,Knox,Lewis,YES,Fail,NO,Jefferson City, MO,43
+290,Marcus Lane Lewis,Marcus,Lane,Lewis,NO,,YES,Helena, MT,50
+291,Maria Lawrence Long,Maria,Lawrence,Long,NO,,YES,Lincoln, NE,44
+292,Marissa Leif Long,Marissa,Leif,Long,YES,Pass,YES,Carson City, NV,29
+293,Mark Lennon Lopez,Mark,Lennon,Lopez,YES,Fail,NO,Concord, NH,25
+294,Mary Lennox Lopez,Mary,Lennox,Lopez,NO,,YES,Trenton, NJ,53
+295,Mason Louis Lopez,Mason,Louis,Lopez,YES,Pass,NO,Santa Fe, NM,53
+296,Mateo Mac Adams,Mateo,Mac,Adams,NO,,NO,Albany, NY,28
+297,Matt Mark Adams,Matt,Mark,Adams,NO,,NO,Raleigh, NC,49
+298,Matthew Maverick Adams,Matthew,Maverick,Adams,YES,Fail,NO,Bismarck, ND,52
+299,Maverick Max Allen,Maverick,Max,Allen,NO,,YES,Columbus, OH,36
+300,Max Nash Allen,Max,Nash,Allen,YES,Fail,YES,Oklahoma City, OK,34
+301,Maya Nico Allen,Maya,Nico,Allen,YES,Pass,NO,Salem, OR,32
+302,Megan Nova Alvarez,Megan,Nova,Alvarez,YES,Fail,NO,Harrisburg, PA,35
+303,Melissa Ocean Alvarez,Melissa,Ocean,Alvarez,YES,Pass,NO,San Juan, PR,47
+304,Melody Onyx Anderson,Melody,Onyx,Anderson,YES,Fail,NO,Providence, RI,40
+305,Mia Orion Anderson,Mia,Orion,Anderson,YES,Fail,NO,Columbia, SC,43
+306,Micah Oscar Anderson,Micah,Oscar,Anderson,YES,Fail,YES,Pierre, SD,29
+307,Michael Paul Bailey,Michael,Paul,Bailey,YES,Fail,YES,Nashville, TN,33
+308,Michelle Ralph Bailey,Michelle,Ralph,Bailey,YES,Pass,YES,Austin, TX,38
+309,Mike Raven Baker,Mike,Raven,Baker,YES,Fail,YES,Salt Lake City, UT,44
+310,Mila Ray Baker,Mila,Ray,Baker,NO,,NO,Montpelier, VT,52
+311,Miles Reed Baker,Miles,Reed,Baker,YES,Pass,YES,Richmond, VA,48
+312,Millie Rhys Bennet,Millie,Rhys,Bennet,YES,Pass,YES,Olympia, WA,50
+313,Miranda River Bennet,Miranda,River,Bennet,NO,,YES,Charleston, WV,43
+314,Molly Robert Brooks,Molly,Robert,Brooks,YES,Pass,NO,Madison, WI,51
+315,Morgan Rye Brooks,Morgan,Rye,Brooks,YES,Pass,NO,Cheyenne, WY,34
+316,Muhammad Sage Brown,Muhammad,Sage,Brown,NO,,YES,Mobile, AL,36
+317,Myles Sam Brown,Myles,Sam,Brown,NO,,NO,Anchorage, AK,25
+318,Naomi Seth Brown,Naomi,Seth,Brown,YES,Pass,YES,Phoenix, AZ,42
+319,Natalie Sirius Campbell,Natalie,Sirius,Campbell,NO,,YES,Little Rock, AR,31
+320,Nate Sky Campbell,Nate,Sky,Campbell,YES,Fail,NO,Bakersfield, CA,29
+321,Nathan Stone Campbell,Nathan,Stone,Campbell,YES,Fail,NO,Fresno, CA,43
+322,Nevaeh Tate Carter,Nevaeh,Tate,Carter,YES,Fail,YES,Long Beach, CA,46
+323,Nicholas Thomas Carter,Nicholas,Thomas,Carter,NO,,YES,Los Angeles, CA,39
+324,Nick Valentine Carter,Nick,Valentine,Carter,NO,,NO,Oakland, CA,50
+325,Jim Costa Bobward,Jim,Costa,Bobward,YES,Fail,NO,Boise, ID,44
+326,Nicole Van Castillo,Nicole,Van,Castillo,YES,Pass,NO,Riverside, CA,35
+327,Noah Wilder Castillo,Noah,Wilder,Castillo,NO,,YES,Sacramento, CA,45
+328,Nolan William Chavez,Nolan,William,Chavez,YES,Pass,YES,San Bernardino, CA,38
+329,Nora Winston Chavez,Nora,Winston,Chavez,YES,Fail,NO,San Diego, CA,29
+330,Nova Wolf Clark,Nova,Wolf,Clark,NO,,YES,San Francisco, CA,47
+331,Oliver Xavier Cruz,Oliver,Xavier,Cruz,YES,Fail,YES,Santa Ana, CA,42
+332,Olivia Zen Cruz,Olivia,Zen,Cruz,NO,,YES,Stockton, CA,43
+333,Omar Zephyr Cruz,Omar,Zephyr,Cruz,NO,,NO,Denver, CO,40
+334,Owen Sage Davis,Owen,Sage,Davis,YES,Fail,NO,San Jose, CA,53
+335,Paige Sam Davis,Paige,Sam,Davis,NO,,NO,Miami, FL,26
+336,Paisley Seth Davis,Paisley,Seth,Davis,NO,,YES,Orlando, FL,54
+337,Zack Sirius Diaz,Zack,Sirius,Diaz,YES,Pass,YES,Columbus, OH,45
+338,Zion Sky Diaz,Zion,Sky,Diaz,YES,Pass,NO,Oklahoma City, OK,49
+339,Zoe Stone Diaz,Zoe,Stone,Diaz,NO,,YES,Salem, OR,45
+340,Zoey Tate Edwards,Zoey,Tate,Edwards,YES,Pass,YES,Harrisburg, PA,28
