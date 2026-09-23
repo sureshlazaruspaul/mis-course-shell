@@ -42,17 +42,17 @@ output:
 
 - [x] &nbsp;GitHub
   - [ ] &nbsp;using Git Bash
-- [x] &nbsp;Dropbox
 - [x] &nbsp;Google Docs
+- [ ] &nbsp;Dropbox
 
 
 
 ### 📊 Excel 
 
-- [x] &nbsp;Data: extraction, formatting, and cleaning
+- [ ] &nbsp;Data: extraction, formatting, and cleaning
 - [ ] &nbsp;Formula and Statistic presentation
   - [ ] &nbsp;Statistical formulas:
-      - [x] &nbsp;General: AVERAGE(), SUM(), MEDIAN(), STDEV(), PERCENTILE(), MIN(), MAX(), SMALL(), LARGE()
+      - [ ] &nbsp;General: AVERAGE(), SUM(), MEDIAN(), STDEV(), PERCENTILE(), MIN(), MAX(), SMALL(), LARGE()
       - [ ] &nbsp;Frequency: COUNT(), COUNTA(), COUNTBLANK(), COUNTIF()
       - [ ] &nbsp;Group-wise: COUNTIF(), COUNTIFS()
   - [ ] &nbsp;Utility formulas:
