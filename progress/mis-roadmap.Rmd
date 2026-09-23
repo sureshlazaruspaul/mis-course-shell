@@ -1,0 +1,133 @@
+---
+title: "MIS"
+author: "Suresh Paul"
+date: "`r Sys.Date()`"
+output:
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Roadmap
+
+
+### 🧩 Background
+
+- [x] &nbsp;Technology
+- [x] &nbsp;Infrastructure
+- [x] &nbsp;IS and its core components
+- [x] &nbsp;Technology estimates in finance, accounting, marketing, and management
+- [x] &nbsp;Role of Data
+- [x] &nbsp;IS versus IT
+
+
+
+### 🧠 Hardware, Software, and Networks
+
+- [x] &nbsp;Hardware components
+  - [x] &nbsp;Processing 
+  - [x] &nbsp;Storage
+  - [x] &nbsp;Peripherals, IoT, and wearables
+  - [x] &nbsp;Mobile
+- [x] &nbsp;Software
+  - [x] &nbsp;Systems software versus Application software (Apps)
+  - [x] &nbsp;Licensing: Perpectual, Subscription, and Open Source
+  - [x] &nbsp;Cloud Computing: IaaS, PaaS, SaaS, AIaaS, QaaS
+- [x] &nbsp;Networks
+  - [x] &nbsp;LAN, WAN, VPN, WiFi, 5G (Cellular)
+  - [x] &nbsp;Topologies: Star, Mesh, Bus
+  - [x] &nbsp;Internet: TCP/IP
+
+
+### 🔧 Version Control Systems
+
+- [x] &nbsp;GitHub
+  - [ ] &nbsp;using Git Bash
+- [x] &nbsp;Dropbox
+- [x] &nbsp;Google Docs
+
+
+
+### 📊 Excel 
+
+- [x] &nbsp;Data: extraction, formatting, and cleaning
+- [ ] &nbsp;Formula and Statistic presentation
+  - [ ] &nbsp;Statistical formulas:
+      - [x] &nbsp;General: AVERAGE(), SUM(), MEDIAN(), STDEV(), PERCENTILE(), MIN(), MAX(), SMALL(), LARGE()
+      - [ ] &nbsp;Frequency: COUNT(), COUNTA(), COUNTBLANK(), COUNTIF()
+      - [ ] &nbsp;Group-wise: COUNTIF(), COUNTIFS()
+  - [ ] &nbsp;Utility formulas:
+      - [ ] &nbsp;General: LAG()
+      - [ ] &nbsp;Date: YEAR(), MONTH(), DAY(), WEEKDAY()
+      - [ ] &nbsp;Conditionals: IF(), IFS(), AND(), OR(), ISBLANK(), IFNA()
+      - [ ] &nbsp;String: LEFT(), RIGHT(), MID(), LEN(), UPPER(), LOWER(), PROPER(), &, TEXTJOIN(), FIND(), SUBSTITUTE()
+- [ ] &nbsp;Aggregation and Search: VLOOKUP, HLOOKUP
+- [ ] &nbsp;Search: MATCH
+- [ ] &nbsp;DCF Exercise (Quiz 1)
+
+
+
+### 💼 Case Studies
+
+- [ ] &nbsp;Knight Capital
+- [ ] &nbsp;Waddell Reed E-Mini Futures
+- [ ] &nbsp;Amazon and Toys-R-Us
+- [ ] &nbsp;Spotify and Apple Music
+- [ ] &nbsp;Target Pregnancy Prediction
+- [ ] &nbsp;Capital One Cloud Services
+- [ ] &nbsp;Equifax Data Breach
+- [ ] &nbsp;Hugging Face Breach - OpenAI 
+
+
+
+### 💼 Assigned Case Studies
+
+
+- [ ] &nbsp;CrowdStrike Outage 
+- [ ] &nbsp;McDonald's AI Drive Through
+- [ ] &nbsp;Twitter/X Infrastructure Under Musk
+- [ ] &nbsp;The MGM Resorts Ransomware Attack
+- [ ] &nbsp;The Air Canada Chatbot
+- [ ] &nbsp;Amazon's AI Recruiting Engine
+
+
+
+### 📊 SQL
+
+
+
+- [ ] &nbsp;Data: creation and extraction
+- [ ] &nbsp;Querying: 
+  - [ ] &nbsp;WHERE with Conditionals:
+      - [ ] &nbsp;General: AND, OR, NOT, >, <, >=, <=, <>
+      - [ ] &nbsp;Missing: NULL
+      - [ ] &nbsp;List and range: IN (), BETWEEN *number1* AND *number2*
+      - [ ] &nbsp;String: 
+          - [ ] &nbsp;LIKE [_ (underscore), \% (percent)]
+          - [ ] &nbsp;GLOB [? (question mark), \* (star)]
+          - [ ] &nbsp;SUBSTR(*variable_name*, *starting_position*, *number_of_characters*)
+  - [ ] &nbsp;SORT:
+      - [ ] &nbsp;ORDER BY [ASC, DESC]
+  - [ ] &nbsp;Optional:
+      - [ ] &nbsp;HAVING 
+- [ ] &nbsp;Multi-level Querying
+- [ ] &nbsp;Computation and transformation
+  - [ ] &nbsp;Statistical formulas:
+      - [ ] &nbsp;General: AVG(), SUM(), MEDIAN(), PERCENTILE(), MIN(), MAX()
+      - [ ] &nbsp;Frequency: COUNT()
+      - [ ] &nbsp;Group-wise: GROUP BY
+  - [ ] &nbsp;Utility:
+      - [ ] &nbsp;General: LIMIT
+      - [ ] &nbsp;Conditional cases: CASE WHEN-THEN-ELSE END AS *variable_name*
+          - [ ] &nbsp;Single CASE statement
+          - [ ] &nbsp;Multiple CASE statements
+          - [ ] &nbsp;Nested CASE statements
+      - [ ] &nbsp;Creating Tables: 
+          - [ ] &nbsp;Permanent using CREATE TABLE *table_name* AS
+          - [ ] &nbsp;Temporary using WITH *table_name* AS () 
+      - [ ] &nbsp;Dropping Tables: 
+          - [ ] &nbsp;DROP TABLE *table_name*
+          - [ ] &nbsp;DROP TABLE IF EXISTS *table_name*
+      - [ ] &nbsp;MERGE: LEFT JOIN, RIGHT JOIN, INNER JOIN, FULL JOIN
+
+
+
