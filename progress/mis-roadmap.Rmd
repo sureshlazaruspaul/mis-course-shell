@@ -51,13 +51,13 @@ output:
 
 - [x] &nbsp;Data: extraction, formatting, and cleaning
 - [ ] &nbsp;Formula and Statistic presentation
-  - [ ] &nbsp;Statistical formulas:
+  - [x] &nbsp;Statistical formulas:
       - [x] &nbsp;General: AVERAGE(), SUM(), MEDIAN(), STDEV(), PERCENTILE(), MIN(), MAX(), SMALL(), LARGE()
-      - [ ] &nbsp;Frequency: COUNT(), COUNTA(), COUNTBLANK()
-      - [ ] &nbsp;Group-wise: COUNTIF(), COUNTIFS()
+      - [x] &nbsp;Frequency: COUNT(), COUNTA(), COUNTBLANK()
+      - [x] &nbsp;Group-wise: COUNTIF(), COUNTIFS()
   - [ ] &nbsp;Utility formulas:
-      - [ ] &nbsp;General: LAG()
-      - [ ] &nbsp;Date: YEAR(), MONTH(), DAY(), WEEKDAY()
+      - [x] &nbsp;General: LAG()
+      - [x] &nbsp;Date: YEAR(), MONTH(), DAY(), WEEKDAY()
       - [ ] &nbsp;Conditionals: IF(), IFS(), AND(), OR(), ISBLANK(), IFNA()
       - [ ] &nbsp;String: LEFT(), RIGHT(), MID(), LEN(), UPPER(), LOWER(), PROPER(), &, TEXTJOIN(), FIND(), SUBSTITUTE()
 - [ ] &nbsp;Aggregation and Search: VLOOKUP(), HLOOKUP()
