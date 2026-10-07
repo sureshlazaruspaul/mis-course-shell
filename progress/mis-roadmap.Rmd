@@ -50,19 +50,19 @@ output:
 ### 📊 Excel 
 
 - [x] &nbsp;Data: extraction, formatting, and cleaning
-- [ ] &nbsp;Formula and Statistic presentation
+- [x] &nbsp;Formula and Statistic presentation
   - [x] &nbsp;Statistical formulas:
       - [x] &nbsp;General: AVERAGE(), SUM(), MEDIAN(), STDEV(), PERCENTILE(), MIN(), MAX(), SMALL(), LARGE()
       - [x] &nbsp;Frequency: COUNT(), COUNTA(), COUNTBLANK()
       - [x] &nbsp;Group-wise: COUNTIF(), COUNTIFS()
-  - [ ] &nbsp;Utility formulas:
+  - [x] &nbsp;Utility formulas:
       - [x] &nbsp;General: LAG()
       - [x] &nbsp;Date: YEAR(), MONTH(), DAY(), WEEKDAY()
-      - [ ] &nbsp;Conditionals: IF(), IFS(), AND(), OR(), ISBLANK(), IFNA()
-      - [ ] &nbsp;String: LEFT(), RIGHT(), MID(), LEN(), UPPER(), LOWER(), PROPER(), &, TEXTJOIN(), FIND(), SUBSTITUTE()
-- [ ] &nbsp;Aggregation and Search: VLOOKUP(), HLOOKUP()
-- [ ] &nbsp;Search: MATCH()
-- [ ] &nbsp;DCF Exercise (Quiz 1)
+      - [x] &nbsp;Conditionals: IF(), IFS(), AND(), OR(), ISBLANK(), IFNA()
+      - [x] &nbsp;String: LEFT(), RIGHT(), MID(), LEN(), UPPER(), LOWER(), PROPER(), &, TEXTJOIN(), FIND(), SUBSTITUTE()
+- [x] &nbsp;Aggregation and Search: VLOOKUP(), HLOOKUP()
+- [x] &nbsp;Search: MATCH()
+- [x] &nbsp;DCF Exercise
 
 
 
