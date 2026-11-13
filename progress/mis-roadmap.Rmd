@@ -68,26 +68,13 @@ output:
 
 ### 💼 Case Studies
 
-- [ ] &nbsp;Knight Capital
-- [ ] &nbsp;Waddell Reed E-Mini Futures
-- [ ] &nbsp;Amazon and Toys-R-Us
-- [ ] &nbsp;Spotify and Apple Music
-- [ ] &nbsp;Target Pregnancy Prediction
-- [ ] &nbsp;Capital One Cloud Services
-- [ ] &nbsp;Equifax Data Breach
-- [ ] &nbsp;Hugging Face Breach - OpenAI 
-
-
-
-### 💼 Assigned Case Studies
-
-
-- [ ] &nbsp;CrowdStrike Outage 
-- [ ] &nbsp;McDonald's AI Drive Through
-- [ ] &nbsp;Twitter/X Infrastructure Under Musk
-- [ ] &nbsp;The MGM Resorts Ransomware Attack
-- [ ] &nbsp;The Air Canada Chatbot
-- [ ] &nbsp;Amazon's AI Recruiting Engine
+- [x] &nbsp;Knight Capital
+- [x] &nbsp;Waddell Reed E-Mini Futures
+- [x] &nbsp;Amazon and Toys-R-Us
+- [x] &nbsp;Spotify and Apple Music
+- [x] &nbsp;Target Pregnancy Prediction
+- [x] &nbsp;Capital One Cloud Services
+- [x] &nbsp;Equifax Data Breach
 
 
 
@@ -130,4 +117,16 @@ output:
       - [ ] &nbsp;MERGE: LEFT JOIN, RIGHT JOIN, INNER JOIN, FULL JOIN
 
 
+
+
+
+### 💼 Assigned Case Studies
+
+
+- [ ] &nbsp;CrowdStrike Outage 
+- [ ] &nbsp;McDonald's AI Drive Through
+- [ ] &nbsp;Twitter/X Infrastructure Under Musk
+- [ ] &nbsp;The MGM Resorts Ransomware Attack
+- [ ] &nbsp;The Air Canada Chatbot
+- [ ] &nbsp;Amazon's AI Recruiting Engine
 
