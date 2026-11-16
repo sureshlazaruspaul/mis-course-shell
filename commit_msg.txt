@@ -1,1 +1,3 @@
-removed mis-roadmap.Rmd
+added case study summaries file
+
+-   pdf-files/Case_Study_Summaries.pdf
